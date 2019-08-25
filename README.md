@@ -1,5 +1,4 @@
-#####################################################################################################################################
-Hello 
+
 
 I would like to share few details about my project:-
 
@@ -31,7 +30,7 @@ this project might have a errors.
 this is 2nd of 3 project i have submitted in the web club task.
 THANK YOU
                     
-#######################################################################################################################################
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
