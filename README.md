@@ -3,8 +3,7 @@
 I would like to share few details about my project:-
 
 Tools and Frameworks i have used in this project-
-I have used Reactjs in the frontend of the project and i have used basic css for styling. The api I have used is same as provided in the 
-resouces section of the project.
+I have used Reactjs in the frontend of the project and i have used basic css for styling.
 
 
 Challenges and learning form this project:-
@@ -24,11 +23,6 @@ WHEN YOU ENABLE THE EXTENSION WHENEVER YOU OPEN THE NEW TAB THE APP WILL LOAD AN
 FOR THE FOLLOWING 5 DAYS.TO SWITCH OFF THE EXTENSION AGAIN GO TO chrome://extensions  AND TURN IT OF AND NOW THE NEW TAB WILL OPEN 
 WITHOUT THE APP.
 
-
-this project might have a errors.
-
-this is 2nd of 3 project i have submitted in the web club task.
-THANK YOU
                     
 
 
